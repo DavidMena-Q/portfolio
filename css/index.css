@@ -328,7 +328,7 @@ body{
 .navigation-links a{
     padding:10px;
     text-decoration: none;
-    color: white;
+    color: #F5F5F5;
     font-size: 30px;
     opacity: .7;
     transition: all .4s ease;
@@ -348,7 +348,7 @@ body{
     font-size: 5em;
     font-weight: 400;
     font-family: monoton;
-    color: #F5F5F5;
+    color: rgb(255, 255, 255,.1);
     z-index: 1;
     pointer-events: none;
     opacity: 0;
